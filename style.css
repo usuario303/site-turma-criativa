@@ -1,4 +1,9 @@
-header {
+{margin:0;paddin:0;}
+cabecalho {
     background-color: #424E61;
-    color: white;
+    color: white;display:flex;justify-content:space-around;align-items:center;padding:240;}
+    
+    cabecalho-imagem{widht:15%;}
+    cabelo-lista-item{display:inline-block;margin:0 16 px;font-size:20 px;}
+    escola-imagem{width:25%;}
 }
